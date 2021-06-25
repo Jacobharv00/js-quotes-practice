@@ -1,11 +1,6 @@
 {
   "quotes": [
     {
-      "id": 2,
-      "quote": "Y’all is the best, most inclusive, second-person, plural pronoun in the English-speaking world.",
-      "author": "Hannah Gadsby"
-    },
-    {
       "id": 3,
       "quote": "today a man on the street pointed to me & said ‘what the hell is that!?’ i wanted to turn around, tell him that i got this dress on sale & i got this body for free but you have been making me pay for both ever since.",
       "author": "Alok Vaid Menon"
@@ -46,19 +41,14 @@
       "author": "Ann Richards"
     },
     {
-      "quote": "Taco taco",
-      "author": "Grace",
-      "id": 12
-    },
-    {
-      "quote": "New new ",
+      "quote": "Test",
       "author": "Jake",
-      "id": 13
+      "id": 14
     },
     {
-      "quote": "Really",
-      "author": "Jacob",
-      "id": 14
+      "quote": "Life is a taco",
+      "author": "Grace",
+      "id": 15
     }
   ]
 }
